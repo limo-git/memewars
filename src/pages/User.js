@@ -1,5 +1,6 @@
 
-import "../styles/User";
+import '../styles/User.css';
+
 
 function User() {
   return (
@@ -9,7 +10,7 @@ function User() {
     <h1>Cats</h1>
 
     <div className="upload" >
-        <img src="images/uploadicon.jpg" alt="upload" />
+        <img src={require("../images/uploadicon.jpg")} alt="" />
     </div>
     <h2>Meme tagline</h2>
 

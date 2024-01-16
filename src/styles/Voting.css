@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+}
+body{
+    background-image: url(../images/blurredbackground.jpeg);
+    background-size: cover;
+    text-align: center;
+}
+
+h6{
+    font-size: 14px;
+    font-family: sans-serif;
+    color:aliceblue;
+
+}
+h1{
+
+    font-size: 34px;
+    font-family: sans-serif;
+    color:aliceblue;
+}
+
+
+.uploadFlex .verticalLine{
+    border: 4px solid white;
+    width: 0px;
+    height: 500px;
+    
+
+}
+.profileFlex{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 150px;
+    padding-right: 150px;
+
+}
+
+.profileFlex img {
+    height: 120px;
+}
+
+.uploadFlex{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 500px;
+    padding-left: 500px;
+
+}
+
+.uploadFlex img {
+    height: 200px;
+
+}
+
+.innerFlexLeft {
+    height: 100px;
+}
+
+.innerFlexRight {
+    height: 100px;
+}

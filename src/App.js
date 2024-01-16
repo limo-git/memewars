@@ -1,9 +1,10 @@
 import User from './pages/User';
+import Voting from './pages/Voting';
 function App() {
   return (
     
     <div>
-       <h1>hello</h1>
+       <Voting/>
     </div>
   );
 }

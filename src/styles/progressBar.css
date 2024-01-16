@@ -1,0 +1,59 @@
+.progressBar{
+    border: 2px solid black;
+    width: 1500px;
+    height: 50px;
+    margin-top: 40px; 
+    background-color: rgb(92, 92, 187);
+   
+}
+
+.progressBar .left{
+    height: 50px;
+    background-color: rgb(221, 76, 76);
+    width: var(--left-width);
+    
+    
+    
+
+}
+
+.blueButton{
+    border: none;
+    font-size: 30px;
+    width: 120px;
+    height: 50px;
+    color: aliceblue;
+    background-color: rgb(84, 84, 194);
+    border-radius: 50px;
+}   
+
+.redButton {
+    border: none;
+    font-size: 30px;
+    width: 120px;
+    height: 50px;
+    color: aliceblue;
+    background-color: rgb(221, 76, 76);
+    border-radius: 50px;
+
+}
+
+.blueButton:hover{
+    cursor: pointer;
+}
+
+.redButton:hover{
+    cursor: pointer;
+}
+.buttonFlex{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 600px;
+    margin-left: 225px;
+    margin-right: 225px;
+
+}
+
+ 
+
+
