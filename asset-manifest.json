@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/limo-git/memewars.git/static/css/main.d0905f42.css",
+    "main.js": "/limo-git/memewars.git/static/js/main.e8929944.js",
+    "static/media/blurredbackground.jpeg": "/limo-git/memewars.git/static/media/blurredbackground.ee5a0c0880300d4d22e7.jpeg",
+    "index.html": "/limo-git/memewars.git/index.html",
+    "main.d0905f42.css.map": "/limo-git/memewars.git/static/css/main.d0905f42.css.map",
+    "main.e8929944.js.map": "/limo-git/memewars.git/static/js/main.e8929944.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0905f42.css",
+    "static/js/main.e8929944.js"
+  ]
+}
