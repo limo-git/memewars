@@ -10,7 +10,7 @@ function Voting() {
 
     <div className='profileFlex'>
     <img src={require("../images/profile.png")} alt="" />
-    <Progressbar red={50} blue={50}/>
+    <Progressbar/>
     <img src={require("../images/profile.png")} alt="" />
     </div>
 

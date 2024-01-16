@@ -14,7 +14,6 @@ const Progressbar = () => {
         <>
      <div className='progressBar'>
         <div className='left'></div>
-        
         <div className='right'></div>
         <div className='buttonFlex'>
         <button className='blueButton' onClick={() => handleButtonClick('left')}>Vote</button>
