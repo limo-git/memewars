@@ -1,9 +1,10 @@
 .progressBar{
     border: 2px solid black;
-    width: 1500px;
+    width: 1400px;
     height: 50px;
     margin-top: 40px; 
     background-color: rgb(92, 92, 187);
+    border-radius: 50px;
    
 }
 
@@ -11,6 +12,7 @@
     height: 50px;
     background-color: rgb(221, 76, 76);
     width: var(--left-width);
+    border-radius: 50px;
     
     
     

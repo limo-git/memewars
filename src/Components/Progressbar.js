@@ -6,7 +6,7 @@ const Progressbar = () => {
   
     const handleButtonClick = (direction) => {
       const newWidth = direction === 'left' ? width - 10 : width + 10;
-      setWidth(Math.max(0, Math.min(100, newWidth)));
+      setWidth(Math.max(0, Math.min(90, newWidth)));
       document.documentElement.style.setProperty('--left-width', `${newWidth}%`);
     };
   
